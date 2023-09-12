@@ -1,5 +1,5 @@
 # Sudoku
-![image|100x100](https://github.com/yosephfy/Sudoku/assets/70306341/21f3e499-90c7-4814-a605-4fd94d63933f)
+![image|100x100, 50%](https://github.com/yosephfy/Sudoku/assets/70306341/21f3e499-90c7-4814-a605-4fd94d63933f)
 
 ### Where to find Sudoku app
 Sudoku9 can be found at the playstore, the link is below:
